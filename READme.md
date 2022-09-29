@@ -1,10 +1,11 @@
-## Portfolio
-# Author :: Francis Kinyuru
+# Portfolio
+
+# Author - Francis Kinyuru
 
 # What is this project About
 Project simply displays a representation of my Curriculum Vitae which includes About, Experience, Profession and education background
 
-# Setup intruction
+# Setup instruction
 
 1. Structure of the project
 
