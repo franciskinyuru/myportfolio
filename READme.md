@@ -37,6 +37,10 @@ Project simply displays a representation of my Curriculum Vitae which includes A
  Link below to view my portfolio
  https://franciskinyuru.github.io/myportfolio/
 
+ ## Licence
+
+ Copyright  2022, Warui Kinyuru  Released under the [MIT License ](https://github.com/franciskinyuru/myportfolio/blob/gh-pages/Lisence.md).
+
 
  
 
