@@ -1,4 +1,4 @@
-ISC License
+MTI License
 
 Copyright (c) 2022, Warui Kinyuru
 
