@@ -21,6 +21,10 @@ img {
 
 }
 
+footer{
+    float: left;
+}
+
 /* For mobile phones: */
 [class*="col-"] {
     width: 100%;
