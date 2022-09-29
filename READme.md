@@ -34,8 +34,8 @@ Project simply displays a representation of my Curriculum Vitae which includes A
 
 5. Access the site.
  
- Link below to view my portfolio
- https://franciskinyuru.github.io/myportfolio/
+ ## Link 
+  View my portfolio [here]( https://franciskinyuru.github.io/myportfolio/)
 
  ## Licence
 
