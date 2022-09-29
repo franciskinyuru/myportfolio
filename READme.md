@@ -2,7 +2,7 @@
 
 # Author - Francis Kinyuru
 
-# What is this project About
+# About
 Project simply displays a representation of my Curriculum Vitae which includes About, Experience, Profession and education background
 
 # Setup instruction
