@@ -28,6 +28,7 @@ Project simply displays a representation of my Curriculum Vitae which includes A
 
  4. View your porfolio
 
-     Navigate to the gh-pages and you will see below in the right bottom on that page
-     image.png
+     Navigate to the gh-pages and you will see below  sample in the right bottom on that page
+ <img width="334" alt="image" src="https://user-images.githubusercontent.com/49100234/193018188-3cef1b1a-2bb9-495b-826f-0bd5f62270c3.png">
+
 
