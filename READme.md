@@ -32,6 +32,11 @@ Project simply displays a representation of my Curriculum Vitae which includes A
      2. Click to navigate to the deployment page 
      3. Finally click on the view Deployment to navigate to the portfolio
 
-     
+5. Access the site.
+ 
+ Link below to view my portfolio
+ https://franciskinyuru.github.io/myportfolio/
+
+
  
 
